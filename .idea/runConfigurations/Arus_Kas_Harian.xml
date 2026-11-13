@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Arus Kas Harian" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="id.aruskas.Aplikasi" />
+    <module name="arus-kas-harian" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
